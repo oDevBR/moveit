@@ -43,10 +43,6 @@
 
 This application was created to gamify physical activities with the Pomodoro technique, aiming at the fight against sedentalism.
 
-## 🌐 Deploy
-
-### <a target="_blank" rel="noopener noreferrer" href="https://moveit-whisoer.vercel.app/"><img src='https://svgshare.com/i/UYk.svg' alt="Logo" /></a>
-
 ## 🚀 Technologies
 
 Technologies that I used to develop this web client
